@@ -57,7 +57,7 @@ export default function EditExpenseForm({ closeModal }: EditExpenseFormProps) {
             Editar Gasto
          </DialogTitle>
          <p className="text-xl font-bold">Edita los detalles de un {''}
-            <span className="text-amber-500">gasto</span>
+            <span className="text-amber-500">Gasto</span>
          </p>
          <form
             className="bg-gray-100 shadow-lg rounded-lg p-10 mt-10 border"
